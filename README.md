@@ -23,5 +23,5 @@ This project was part of my assignment as a freelance web developer. The design 
 
 ### Desktop View
 
-![Desktop view](Solar.gif)
+![Desktop view](homepage.png)
 
